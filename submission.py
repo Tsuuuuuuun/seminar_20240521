@@ -23,6 +23,7 @@ st.markdown("""
     ### 注意
     - ファイル名は `predict_group(?).csv` (? は班名)としてください。
         - A班の場合: `predict_groupA.csv`
+        - オンラインの方々は、`predict_group_氏名.csv` としてください。
     - 予測結果は `Outcome` 列に格納してください。
     """)
 
